@@ -1,0 +1,4 @@
+PS E:\simple-interest-calculator> git branch -vv
+* bug-fix-typo 60b221a Add bug fix revert verification
+  main         2e2f6f2 [origin/main] Add first merge output
+PS E:\simple-interest-calculator>
